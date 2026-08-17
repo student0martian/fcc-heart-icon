@@ -21,6 +21,8 @@ Set the heart shape's `d` attribute to `M12 21s-6-4.35-9.33-8.22C-.5 7.39 3.24 1
 ### Step 4  
 The next step is to set the `width` and `height` attributes for the `svg` element. As you are creating an icon, both values should be set small.  
 
+Set both values to `24`.  
+
 ### Step 5  
 You are getting closer. Now, look at this example:  
 
@@ -37,7 +39,6 @@ The `viewBox` attribute controls what part of the image is visible inside the SV
 Set the `viewBox` attribute to `0 0 24 24`.  
 
 
-Set both values to `24`.  
 
 
 
