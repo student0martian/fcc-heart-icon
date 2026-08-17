@@ -8,6 +8,9 @@ In a previous lesson, you learned about `svg` elements and how they're often use
 However, in this workshop, you'll build a heart icon to learn about the core attributes used inside an `svg` element.  
 Start by creating an `svg` element on the page.  
 
+### Step 2  
+You should nest one `path` element inside your `svg` element to give the image shape.  
+Create a `path` element.  
 
 
 
