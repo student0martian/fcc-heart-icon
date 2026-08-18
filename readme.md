@@ -38,8 +38,12 @@ The `viewBox` attribute controls what part of the image is visible inside the SV
 
 Set the `viewBox` attribute to `0 0 24 24`.  
 
+### Step 6  
+The heart icon is almost done. You just need to color it red. To do that, set the `svg` element's `fill` attribute to `red`.  
 
-
-
-
+Congrats on finishing this workshop!  
+  
+  
+  
+  
 [*Check out this book I'm reading*](https://www.freecodecamp.org/news/learn-to-code-book/)
